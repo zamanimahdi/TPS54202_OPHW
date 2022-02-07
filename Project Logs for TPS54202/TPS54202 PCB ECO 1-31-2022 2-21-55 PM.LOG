@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+12 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=+3V3 Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Member From Class: ClassName=TPS54202 Member=J1
+Added Component: Designator=J?(XH_5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "JST-B5B-XHA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "XH_5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=+3V3 Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=NetR2_1 Pin=J?-5
+Change Net Name : Old Net Name=NetR2_1 New Net Name=EN
+Added Member To Class: ClassName=TPS54202 Member=Component J? XH_5
